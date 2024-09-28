@@ -1,0 +1,17 @@
+{
+  "name": "backendseries",
+  "version": "1.0.0",
+  "description": "Express Js and Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "js"
+  ],
+  "author": "Saunak Patel",
+  "license": "ISC"
+}
